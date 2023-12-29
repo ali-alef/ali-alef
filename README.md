@@ -1,6 +1,11 @@
 ### Hi there 👋
-🔭 I’m currently working for Yektanet Company in Iran
-🌱 I’m currently learning TypeScript, Django
+## My Name is Ali (Ali Alef)
+
+<pre>
+  🔭 I’m currently working for Yektanet Company in Iran
+  🌱 I’m currently learning TypeScript, Django
+</pre>
+
 <!--
 **ali-alef/ali-alef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
